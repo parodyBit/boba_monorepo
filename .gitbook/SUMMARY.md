@@ -36,6 +36,7 @@
     * [Introduction to Pyth Oracles](contents/developer/oracles/introduction-to-pyth.md)
     * [Introduction to DIA Oracles](contents/developer/oracles/introduction-to-dia-oracles.md)
     * [Introduction to SupraOracles](contents/developer/oracles/introduction-to-supraoracles.md)
+    * [Introduction to Wit/Oracle](contents/developer/oracles/introduction-to-witnet.md)
   * [Indexer](contents/developer/indexer/README.md)
     * [The Graph](contents/developer/indexer/the-graph.md)
     * [Subquery Indexer](contents/developer/indexer/subquery-indexer.md)
